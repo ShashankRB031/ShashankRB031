@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-r-b-58538325b/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:rbshashank1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=plastic&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://shashankrb031.github.io/Portfolio//PORTFOLIO-FF5722?style=plastic&logo=todoist&logoColor=white)](#)
 
 ![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-4-blueviolet?style=plastic)
 
