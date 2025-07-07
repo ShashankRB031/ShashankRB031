@@ -61,17 +61,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white)
+
+
 
 ### 🌐 Frontend Development  
-![React](https://img.shields.io/badge/REACT-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=plastic&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=plastic&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development  
