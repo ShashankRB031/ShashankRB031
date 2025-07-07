@@ -250,8 +250,4 @@ const shashank = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontColor=gradient" width="100%">
 </div>
 
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/ShashankRB031/count.svg)
 
-</div>
