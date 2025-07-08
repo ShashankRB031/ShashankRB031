@@ -118,6 +118,40 @@
 
 ---
 
+## 🧠 LeetCode Journey
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=LeetCode+Problem+Solving;Algorithm+%26+Data+Structures" alt="LeetCode Journey" />
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank_R_B?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Shashank_R_B/)
+
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Shashank_R_B/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</div>
+
+### 🎯 Current Focus
+- **Current Goal**: Solve 50+ problems by end of 2025
+- **Focus Areas**: Arrays, Strings, Dynamic Programming
+- **Next Milestone**: Reach 25 solved problems
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -249,5 +283,3 @@ const shashank = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontColor=gradient" width="100%">
 </div>
-
-
