@@ -126,7 +126,7 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257440-0e79df2f-501b-4b10-b843-e9716b7d33f5.gif" width="100">
 </div>
 
 <div align="center">
