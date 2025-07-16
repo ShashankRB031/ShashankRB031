@@ -6,19 +6,7 @@
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Code+%2B+Creativity+%2B+Innovation" alt="Typing SVG" />
 </h1>
-## 🔥 Contribution Activity
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Contribution+Graph;Daily+Coding+Activity" alt="Contribution Activity" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankRB031&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF" width="70%" />
-</div>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
  -->
 <div>
@@ -109,6 +97,19 @@
 </div>
 
 ---
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Contribution+Graph;Daily+Coding+Activity" alt="Contribution Activity" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankRB031&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF" width="70%" />
+</div>
 
 ## 📊 GitHub Analytics
 
