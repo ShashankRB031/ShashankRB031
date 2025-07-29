@@ -214,11 +214,7 @@ console.log("Ready to make an impact in tech! 💻✨");
 
 ---
 
-## 📈 Skills Proficiency
 
-
-
----
 
 ## 🎨 Developer Wisdom
 
