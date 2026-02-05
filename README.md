@@ -172,13 +172,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankRB031&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-</div>
-
----
 
 ## 🎯 Current Focus & Goals
 
@@ -243,8 +237,3 @@ console.log("Ready to make an impact in tech! 💻✨");
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding%20%26%20Keep%20Growing!&fontSize=16&fontAlignY=75&animation=twinkling&fontColor=gradient" width="100%">
-</div>
