@@ -180,7 +180,7 @@
 const shashankProfile = {
     location: "Bengaluru, Karnataka, India 🇮🇳",
     education: "B.Tech Computer Science @ GITAM University",
-    currentCGPA: "8.37",
+    currentCGPA: "8.47",
     currentFocus: [
         "Full Stack Development", 
         "MERN Stack Mastery", 
