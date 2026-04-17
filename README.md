@@ -8,7 +8,7 @@
 </h1>
 
 <div>
-  <a href="https://www.linkedin.com/in/shashank-r-bhavikatti-58538325b">
+  <a href="https://www.linkedin.com/in/shashank-r-bhavikatti-58538325b/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rbshashank1@gmail.com">
